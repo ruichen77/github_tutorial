@@ -1,1 +1,2 @@
 hello again
+conflict changes for pull request.
